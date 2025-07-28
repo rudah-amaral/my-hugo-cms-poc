@@ -1,3 +1,4 @@
 baseURL = 'https://rudah-amaral.github.io/my-hugo-cms-poc/'
 languageCode = 'pt-BR'
 title = 'O meu site basicão tlgd'
+theme = 'lugo'
