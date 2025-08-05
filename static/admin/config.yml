@@ -4,6 +4,7 @@ backend:
   branch: main
 
 media_folder: "static/decap-images"
+public_folder: "/my-hugo-cms-poc/decap-images/"
 
 collections:
   - name: 'posts' # Used in routes, ie.: /admin/collections/:slug/edit
