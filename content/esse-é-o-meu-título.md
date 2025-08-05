@@ -5,4 +5,4 @@ date: 2025-08-03T12:24:00-03:00
 tags:
   - leo
 ---
-![](/decap-images/1.jpg)
+![](/my-hugo-cms-poc/decap-images/1.jpg)
