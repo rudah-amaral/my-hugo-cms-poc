@@ -3,6 +3,7 @@ backend:
   repo: rudah-amaral/my-hugo-cms-poc # Path to your GitHub repository
   branch: main
 
+site_url: "https://rudah-amaral.github.io/my-hugo-cms-poc"
 media_folder: "static/decap-images"
 public_folder: "/my-hugo-cms-poc/decap-images/"
 
